@@ -9,7 +9,7 @@
 
 #This script calculates the range of pollinators' dispersal distances required by Condatis. The distances are calculated for three groups: bees, hoverflies and moths. 
 
-#The distances were calculated using linear regression models using morphological characters of the species. See Methods for details.
+#The distances were calculated using linear regression models using morphological characters of the species. See 'UK insect pollinator species and dispersal distance' section in the methods report for details.
 
 #An ANOVA and (post hoc) Dunnett Test is performed to assess if there is a significant difference among the dispersal distances of the groups  
 
